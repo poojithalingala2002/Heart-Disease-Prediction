@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>❤️ Heart Disease Prediction System</h1>
+<h1>Heart Disease Prediction System</h1>
 
 <p>
 A complete <strong>end-to-end Machine Learning pipeline</strong> designed to predict the presence of
@@ -267,7 +267,7 @@ http://127.0.0.1:5000/
 
 <h2>👨‍💻 Author</h2>
 <p>
-<strong>Bala Venu</strong><br>
+<strong>poojitha lingala</strong><br>
 Machine Learning & Data Science Enthusiast
 </p>
 
